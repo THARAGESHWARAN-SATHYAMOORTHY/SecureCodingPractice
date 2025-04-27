@@ -1,10 +1,8 @@
 # Secure Coding Practices
 
-Here’s the *full detailed summary* of your document *without missing any important detail*:
-
 ---
 
-## *Windows Kernel – Summary*
+## *Windows Kernel*
 
 ---
 
@@ -216,8 +214,3 @@ Here’s the *full detailed summary* of your document *without missing any impor
   - Restricted information leaks.
 
 ---
-
-# *End of Summary*
----
-
-Would you also like me to create a *one-page cheat sheet* out of this if you want something even quicker to review? 📄
